@@ -42,6 +42,7 @@ La actividad ganadera en zonas rurales de Chile se enfrenta a múltiples retos: 
 📲 Plataforma de monitoreo vía app web/móvil, accesible, simple y pensada para usuarios no técnicos.
 
 
+
 🌱 Etapa futura (visión a corto/mediano plazo)
 
   - Sensores de temperatura corporal o frecuencia cardíaca.
