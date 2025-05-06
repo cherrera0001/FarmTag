@@ -28,30 +28,23 @@ La actividad ganadera en zonas rurales de Chile se enfrenta a múltiples retos: 
 **Cow Tag** surge como una solución tecnológica integral. Es un dispositivo IoT que se fija al ganado y permite monitorear su ubicación, movimientos y comportamiento, incluso en lugares sin señal celular. Utiliza tecnologías probadas como **LoRaWAN**, **GPS**, **acelerómetros** y **energía solar**, con el objetivo de operar de forma autónoma por meses. económica y energéticamente autónoma, pero está diseñado para evolucionar hacia una plataforma de inteligencia ganadera rural.
 
 ### Solución:
+
 📍 Seguimiento por GPS en tiempo real, para conocer la ubicación del animal en todo momento.
-
 🚨 Alertas de comportamiento anómalo, como inactividad prolongada o posible escape.
-
 🧭 Geocercas configurables (cercas virtuales) para definir límites sin necesidad de vallado físico (fase futura).
-
 ☀️ Operación autónoma con panel solar y batería, sin necesidad de intervención humana frecuente.
-
 📡 Comunicación por LoRaWAN, que no depende de cobertura celular.
-
 📲 Plataforma de monitoreo vía app web/móvil, accesible, simple y pensada para usuarios no técnicos.
 
+
 🌱 Etapa futura (visión a corto/mediano plazo)
-   Sensores de temperatura corporal o frecuencia cardíaca.
 
-   Detección de alimentación o falta de movimiento por tiempo excesivo.
-
-   Rutas frecuentes y mapas de calor de comportamiento.
-
-   Estado energético del collar y alertas por bajo nivel de batería.
-
-   Estimaciones predictivas: ¿Está preñada? ¿Se enfermó? ¿Está rumiando correctamente?
-
-   Generación de reportes trazables para el SAG o exportación.
+  - Sensores de temperatura corporal o frecuencia cardíaca.
+  - Detección de alimentación o falta de movimiento por tiempo excesivo.
+  - Rutas frecuentes y mapas de calor de comportamiento.
+  - Estado energético del collar y alertas por bajo nivel de batería.
+  - Estimaciones predictivas: ¿Está preñada? ¿Se enfermó? ¿Está rumiando correctamente?
+  - Generación de reportes trazables para el SAG o exportación.
    
 ---
 
