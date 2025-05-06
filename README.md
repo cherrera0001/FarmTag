@@ -30,10 +30,15 @@ La actividad ganadera en zonas rurales de Chile se enfrenta a múltiples retos: 
 ### Solución:
 
 📍 Seguimiento por GPS en tiempo real, para conocer la ubicación del animal en todo momento.
+
 🚨 Alertas de comportamiento anómalo, como inactividad prolongada o posible escape.
+
 🧭 Geocercas configurables (cercas virtuales) para definir límites sin necesidad de vallado físico (fase futura).
+
 ☀️ Operación autónoma con panel solar y batería, sin necesidad de intervención humana frecuente.
+
 📡 Comunicación por LoRaWAN, que no depende de cobertura celular.
+
 📲 Plataforma de monitoreo vía app web/móvil, accesible, simple y pensada para usuarios no técnicos.
 
 
