@@ -23,7 +23,7 @@
 
 ## 🧭 Resumen Ejecutivo
 
-¿Cómo nació la idea de Cow Tag?
+***¿Cómo nació la idea de Cow Tag?***
 La idea de Cow Tag nació en un momento de introspección y conexión con la naturaleza. Recuerdo que, tras una situación difícil en mi vida personal, decidí pasar unos días en el sur de Chile. Durante esa estadía, tuve la oportunidad de conocer a mi familia paterna, la familia Palacios, especialmente a mi tío Queño y a mi primo Jaime. Queño ha sido veterinario toda su vida, y juntos se dedican a la crianza de ganado. Fue ahí, en su predio, donde observé una práctica que me llamó profundamente la atención: antes de ir a una feria a vender su ganado, ellos perforaban la oreja de las vacas para colocarles una etiqueta, un "tag" simple exigido por el SAG (Servicio Agrícola y Ganadero).
 
 Aquella escena, aparentemente rutinaria, despertó en mí una pregunta: ¿Qué más se podría controlar en el ganado? ¿Qué información adicional se podría obtener para ayudar realmente a los ganaderos? No se trataba solo de identificarlos, sino de ofrecerles datos útiles para su gestión diaria.
@@ -34,31 +34,26 @@ Fue entonces cuando me di cuenta de una necesidad profunda y común entre los ga
 
 Cow Tag nació como una respuesta a esta necesidad, una solución tecnológica que va más allá del simple control visual del ganado. No se trata solo de una etiqueta identificadora, sino de un sistema integral para monitorear ubicación, salud y comportamiento, incluso en zonas remotas. Es una solución que busca transformar la ganadería rural, haciéndola más eficiente, segura y rentable.
 
-### Solución:
+## 🚀 Solución Propuesta: Cow Tag
 
-📍 Seguimiento por GPS en tiempo real, para conocer la ubicación del animal en todo momento.
+### 🌐 **Seguimiento y Monitoreo Inteligente**
+- 📍 **Seguimiento por GPS en tiempo real:** Permite conocer la ubicación del animal en cualquier momento, mejorando la gestión del ganado en grandes extensiones de terreno.
+- 🚨 **Alertas de comportamiento anómalo:** Detecta situaciones como inactividad prolongada, movimiento errático o posible escape del animal, enviando notificaciones automáticas al usuario.
+- 🧭 **Geocercas configurables:** Configuración de cercas virtuales para definir límites de movimiento sin necesidad de vallas físicas, una solución versátil y adaptable (implementación prevista para fases futuras).
+- ☀️ **Operación autónoma:** Alimentación mediante panel solar y batería de larga duración, garantizando un funcionamiento continuo sin intervención humana frecuente.
+- 📡 **Conectividad avanzada:** Comunicación a través de LoRaWAN, una tecnología que permite el monitoreo incluso en zonas rurales sin cobertura celular.
+- 📲 **Plataforma de gestión web/móvil:** Acceso a través de una aplicación intuitiva y fácil de usar, diseñada para usuarios no técnicos, compatible con cualquier dispositivo.
 
-🚨 Alertas de comportamiento anómalo, como inactividad prolongada o posible escape.
+---
 
-🧭 Geocercas configurables (cercas virtuales) para definir límites sin necesidad de vallado físico (fase futura).
+### 🌱 **Visión a Corto y Mediano Plazo**
+- 🌡️ **Sensores adicionales:** Integración de sensores de temperatura corporal y frecuencia cardíaca para monitoreo de salud.
+- 🍃 **Detección de patrones de alimentación:** Identificación de consumo de alimento y alerta ante falta de movimiento prolongado.
+- 🗺️ **Mapas de comportamiento:** Generación de rutas frecuentes y mapas de calor para análisis de desplazamientos del ganado.
+- 🔋 **Estado energético del dispositivo:** Monitoreo del nivel de batería del collar y alertas automáticas por bajo rendimiento energético.
+- 📊 **Estimaciones predictivas:** Uso de inteligencia artificial para predecir condiciones como preñez, enfermedades o problemas digestivos (detección de rumia).
+- 📝 **Reportes automáticos:** Generación de reportes trazables para cumplir con normativas del SAG o para exportación, facilitando la gestión documental del productor.
 
-☀️ Operación autónoma con panel solar y batería, sin necesidad de intervención humana frecuente.
-
-📡 Comunicación por LoRaWAN, que no depende de cobertura celular.
-
-📲 Plataforma de monitoreo vía app web/móvil, accesible, simple y pensada para usuarios no técnicos.
-
-
-
-🌱 Etapa futura (visión a corto/mediano plazo)
-
-  - Sensores de temperatura corporal o frecuencia cardíaca.
-  - Detección de alimentación o falta de movimiento por tiempo excesivo.
-  - Rutas frecuentes y mapas de calor de comportamiento.
-  - Estado energético del collar y alertas por bajo nivel de batería.
-  - Estimaciones predictivas: ¿Está preñada? ¿Se enfermó? ¿Está rumiando correctamente?
-  - Generación de reportes trazables para el SAG o exportación.
-   
 ---
 
 ## 🌎 Estado del Arte y Benchmark Global
