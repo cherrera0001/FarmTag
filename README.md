@@ -24,7 +24,7 @@
 ## 🧭 Resumen Ejecutivo
 
 ***¿Cómo nació la idea de Cow Tag?***
-La idea de Cow Tag nació en un momento de introspección y conexión con la naturaleza. Recuerdo que, tras una situación difícil en mi vida personal, decidí pasar unos días en el sur de Chile. Durante esa estadía, tuve la oportunidad de conocer a mi familia paterna, la familia Palacios, especialmente a mi tío Queño y a mi primo Jaime. Queño ha sido veterinario toda su vida, y juntos se dedican a la crianza de ganado. Fue ahí, en su predio, donde observé una práctica que me llamó profundamente la atención: antes de ir a una feria a vender su ganado, ellos perforaban la oreja de las vacas para colocarles una etiqueta, un "tag" simple exigido por el SAG (Servicio Agrícola y Ganadero).
+La idea de Cow Tag nació en un momento de introspección y conexión con la naturaleza. Recuerdo que, tras una situación difícil en mi vida personal, decidí pasar unos días en el sur de Chile junto a mi padre. Durante esa estadía, tuve la oportunidad de conocer a mi familia paterna, la familia Palacios, especialmente a mi tío Queño y a mi primo Jaime. Queño ha sido veterinario toda su vida, y juntos se dedican a la crianza de ganado. Fue ahí, en su predio, donde observé una práctica que me llamó profundamente la atención: antes de ir a una feria a vender su ganado, ellos perforaban la oreja de las vacas para colocarles una etiqueta, un "tag" simple exigido por el SAG (Servicio Agrícola y Ganadero).
 
 Aquella escena, aparentemente rutinaria, despertó en mí una pregunta: ¿Qué más se podría controlar en el ganado? ¿Qué información adicional se podría obtener para ayudar realmente a los ganaderos? No se trataba solo de identificarlos, sino de ofrecerles datos útiles para su gestión diaria.
 
