@@ -23,9 +23,16 @@
 
 ## 🧭 Resumen Ejecutivo
 
-La actividad ganadera en zonas rurales de Chile se enfrenta a múltiples retos: terrenos amplios, pérdida de animales, cercas costosas, ausencia de conectividad móvil y baja eficiencia operativa. Actualmente, muchos ganaderos operan "a ojo" o con controles manuales, lo que impide detectar a tiempo enfermedades, fugas o problemas nutricionales. Las tecnologías disponibles en el mercado son costosas, poco accesibles o diseñadas para grandes productores con señal LTE.
+¿Cómo nació la idea de Cow Tag?
+La idea de Cow Tag nació en un momento de introspección y conexión con la naturaleza. Recuerdo que, tras una situación difícil en mi vida personal, decidí pasar unos días en el sur de Chile. Durante esa estadía, tuve la oportunidad de conocer a mi familia paterna, la familia Palacios, especialmente a mi tío Queño y a mi primo Jaime. Queño ha sido veterinario toda su vida, y juntos se dedican a la crianza de ganado. Fue ahí, en su predio, donde observé una práctica que me llamó profundamente la atención: antes de ir a una feria a vender su ganado, ellos perforaban la oreja de las vacas para colocarles una etiqueta, un "tag" simple exigido por el SAG (Servicio Agrícola y Ganadero).
 
-**Cow Tag** surge como una solución tecnológica integral. Es un dispositivo IoT que se fija al ganado y permite monitorear su ubicación, movimientos y comportamiento, incluso en lugares sin señal celular. Utiliza tecnologías probadas como **LoRaWAN**, **GPS**, **acelerómetros** y **energía solar**, con el objetivo de operar de forma autónoma por meses. económica y energéticamente autónoma, pero está diseñado para evolucionar hacia una plataforma de inteligencia ganadera rural.
+Aquella escena, aparentemente rutinaria, despertó en mí una pregunta: ¿Qué más se podría controlar en el ganado? ¿Qué información adicional se podría obtener para ayudar realmente a los ganaderos? No se trataba solo de identificarlos, sino de ofrecerles datos útiles para su gestión diaria.
+
+Poco después, conocí a Gabriel, un hombre mayor que también trabajaba con ganado. Una tarde, su esposa le pidió que fuera a buscar a su buey, un animal viejo que solía pastar libremente. Gabriel miró al horizonte y, con una certeza impresionante, dijo: "A esta hora el animal está echado, no lo voy a encontrar". Esa escena me dejó pensando. ¿Y si él pudiera saber con precisión dónde estaba su buey, sin depender solo de su intuición?
+
+Fue entonces cuando me di cuenta de una necesidad profunda y común entre los ganaderos: conocer el estado, ubicación y comportamiento de sus animales, especialmente en terrenos amplios y sin conectividad móvil. Sin embargo, el primer desafío era evidente: la falta de conexión en esas zonas rurales.
+
+Cow Tag nació como una respuesta a esta necesidad, una solución tecnológica que va más allá del simple control visual del ganado. No se trata solo de una etiqueta identificadora, sino de un sistema integral para monitorear ubicación, salud y comportamiento, incluso en zonas remotas. Es una solución que busca transformar la ganadería rural, haciéndola más eficiente, segura y rentable.
 
 ### Solución:
 
