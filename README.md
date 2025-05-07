@@ -1,5 +1,5 @@
 
-# 🐄 Cow Tag: Dispositivo IoT para Monitoreo Ganadero en Zonas Rurales de Chile
+# 🐄 Cow Tag: Dispositivo IoT para monitoreo ganadero en zonas rurales de Chile
 
 **Responsable:** Cristóbal Herrera Jara (C4A SpA)  
 **Fecha:** 6 de mayo de 2025
