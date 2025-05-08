@@ -1,3 +1,4 @@
+![logo-cowtag](https://github.com/user-attachments/assets/c6b4547b-4f7d-498d-8fd0-bfc7108c5531)
 
 # 🐄 Cow Tag: Dispositivo IoT para monitoreo ganadero en zonas rurales de Chile
 
