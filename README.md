@@ -64,7 +64,8 @@ En Chile, más del 70% de los predios ganaderos se encuentran en zonas rurales s
 FarmTag busca resolver estos problemas, ofreciendo un monitoreo preciso y accesible.
 
 
-![FarmTag_ Solución Modular para la Gestión de Ganado - visual selection](https://github.com/user-attachments/assets/149418c8-896f-4e60-a6f5-ea5f7291e7b7)
+![image](https://github.com/user-attachments/assets/eb81f690-d305-4bf1-a140-ba20dd8f14b6)
+
 
 ## 🚀 Primera Etapa: CowTag
 
