@@ -24,8 +24,8 @@
 
 ## 🧭 Resumen Ejecutivo
 
-***¿Cómo nació la idea de Cow Tag?***
-La idea de Cow Tag nació en un momento de introspección y conexión con la naturaleza. Recuerdo que, tras una situación difícil en mi vida personal, decidí pasar unos días en el sur de Chile junto a mi padre. Durante esa estadía, tuve la oportunidad de conocer a mi familia paterna, la familia Palacios, especialmente a mi tío Queño y a mi primo Jaime. Queño ha sido veterinario toda su vida, y juntos se dedican a la crianza de ganado. Fue ahí, en su predio, donde observé una práctica que me llamó profundamente la atención: antes de ir a una feria a vender su ganado, ellos perforaban la oreja de las vacas para colocarles una etiqueta, un "tag" simple exigido por el SAG (Servicio Agrícola y Ganadero).
+***¿Cómo nació la idea de FarmTag?***
+La idea de FarmTag nació en un momento de introspección y conexión con la naturaleza. Recuerdo que, tras una situación difícil en mi vida personal, decidí pasar unos días en el sur de Chile junto a mi padre. Durante esa estadía, tuve la oportunidad de conocer a mi familia paterna, la familia Palacios, especialmente a mi tío Queño y a mi primo Jaime. Queño ha sido veterinario toda su vida, y juntos se dedican a la crianza de ganado. Fue ahí, en su predio, donde observé una práctica que me llamó profundamente la atención: antes de ir a una feria a vender su ganado, ellos perforaban la oreja de las vacas para colocarles una etiqueta, un "tag" simple exigido por el SAG (Servicio Agrícola y Ganadero).
 
 Aquella escena, aparentemente rutinaria, despertó en mí una pregunta: ¿Qué más se podría controlar en el ganado? ¿Qué información adicional se podría obtener para ayudar realmente a los ganaderos? No se trataba solo de identificarlos, sino de ofrecerles datos útiles para su gestión diaria.
 
@@ -87,7 +87,7 @@ FarmTag busca resolver estos problemas, ofreciendo un monitoreo preciso y accesi
 | Halter       | NZ/USA     | GPS, base inteligente, energía solar  | USD 60/año     | NZ, USA                | Requiere infraestructura compleja |
 | Vence        | Merck      | GPS + base fija                       | USD 40/año     | USA                   | Limitada autonomía energética     |
 
-Cow Tag busca posicionarse como una alternativa más económica, con independencia celular (gracias a LoRa) y adaptable al terreno rural latinoamericano.
+CowTag busca posicionarse como una alternativa más económica, con independencia celular (gracias a LoRa) y adaptable al terreno rural latinoamericano.
 
 ---
 
@@ -95,7 +95,7 @@ Cow Tag busca posicionarse como una alternativa más económica, con independenc
 
 ### ¿Cómo funcionan?
 1. Se configura una cerca virtual desde una app o plataforma web.
-2. El collar Cow Tag monitorea la ubicación del animal vía GPS.
+2. El collar CowTag monitorea la ubicación del animal vía GPS.
 3. Si el animal se acerca a la zona límite:
    - Se emite una alerta sonora.
    - (Fase futura) Se aplicaría un impulso leve.
@@ -141,7 +141,7 @@ Cow Tag busca posicionarse como una alternativa más económica, con independenc
 ### Arquitectura:
 
 ```
-Cow Tag (GPS+LoRa)
+CowTag (GPS+LoRa)
      ↓
 LoRa Gateway
      ↓
