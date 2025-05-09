@@ -1,6 +1,7 @@
-![FarmTag](https://github.com/user-attachments/assets/16b98248-7b50-44ef-9521-7bda217fdb39)
+![Logo _FarmTag_ con elementos rurales](https://github.com/user-attachments/assets/a4e5a11c-4e26-4d0c-8ad6-e45a29fdb613)
 
-# 🐄 FarmTag: Dispositivo IoT para monitoreo ganadero en zonas rurales de Chile
+
+# FarmTag: Dispositivo IoT para monitoreo ganadero en zonas rurales de Chile
 
 **Responsable:** Cristóbal Herrera Jara (C4A SpA)  
 **Fecha:** 6 de mayo de 2025
@@ -36,8 +37,6 @@ Fue entonces cuando me di cuenta de una necesidad profunda y común entre los ga
 FarmTag surgió como una respuesta a esta necesidad, una solución tecnológica que trasciende el mero control visual del ganado. No se trata solo de una etiqueta identificadora, sino de un sistema integral diseñado para monitorear la ubicación, la salud y el comportamiento, incluso en áreas remotas. Es una solución que aspira a transformar la ganadería rural, haciéndola más eficiente, segura y rentable.
 
 FarmTag es una solución IoT concebida para el monitoreo inteligente de ganado en entornos rurales desprovistos de cobertura celular. El producto inicial de esta línea es Cow Tag, un dispositivo IoT para vacas que faculta a los ganaderos para supervisar la ubicación, la salud y el comportamiento de sus animales de manera autónoma y precisa. La visión a largo plazo de FarmTag contempla la expansión de esta solución a otros animales como caballos (HorseTag) y ovejas (SheepTag), adaptando la tecnología a las particularidades de cada especie.
-
-![_- visual selection](https://github.com/user-attachments/assets/0a398860-6d1e-4438-91d6-f1fd9a869103)
 
 
 
