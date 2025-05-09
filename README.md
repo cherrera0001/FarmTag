@@ -45,7 +45,8 @@ FarmTag es una solución IoT concebida para el monitoreo inteligente de ganado e
 
 FarmTag es una solución modular que se adapta a diversos tipos de ganado:
 
-![FarmTag_ Solución Modular para la Gestión de Ganado - visual selection (1)](https://github.com/user-attachments/assets/31d3a4a2-1e89-40a6-aff1-8e5fe3165846)
+![image](https://github.com/user-attachments/assets/5b34b61f-c561-4a51-ab9a-b581854160d7)
+
 
 
 * **Cow Tag:** Dispositivo IoT para vacas, optimizado para monitoreo en grandes extensiones rurales.
