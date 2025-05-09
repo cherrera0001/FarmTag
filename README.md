@@ -1,6 +1,6 @@
-![CowTagv1](https://github.com/user-attachments/assets/6f9ffc35-2669-42ed-b7ea-918d1f8e4459)
+![FarmTag](https://github.com/user-attachments/assets/16b98248-7b50-44ef-9521-7bda217fdb39)
 
-# 🐄 Cow Tag: Dispositivo IoT para monitoreo ganadero en zonas rurales de Chile
+# 🐄 FarmTag: Dispositivo IoT para monitoreo ganadero en zonas rurales de Chile
 
 **Responsable:** Cristóbal Herrera Jara (C4A SpA)  
 **Fecha:** 6 de mayo de 2025
