@@ -33,9 +33,30 @@ Poco después, conocí a Gabriel, un hombre mayor que también trabajaba con gan
 
 Fue entonces cuando me di cuenta de una necesidad profunda y común entre los ganaderos: conocer el estado, ubicación y comportamiento de sus animales, especialmente en terrenos amplios y sin conectividad móvil. Sin embargo, el primer desafío era evidente: la falta de conexión en esas zonas rurales.
 
-Cow Tag nació como una respuesta a esta necesidad, una solución tecnológica que va más allá del simple control visual del ganado. No se trata solo de una etiqueta identificadora, sino de un sistema integral para monitorear ubicación, salud y comportamiento, incluso en zonas remotas. Es una solución que busca transformar la ganadería rural, haciéndola más eficiente, segura y rentable.
+FarmTag surgió como una respuesta a esta necesidad, una solución tecnológica que trasciende el mero control visual del ganado. No se trata solo de una etiqueta identificadora, sino de un sistema integral diseñado para monitorear la ubicación, la salud y el comportamiento, incluso en áreas remotas. Es una solución que aspira a transformar la ganadería rural, haciéndola más eficiente, segura y rentable.
 
-## 🚀 Solución Propuesta: Cow Tag
+FarmTag es una solución IoT concebida para el monitoreo inteligente de ganado en entornos rurales desprovistos de cobertura celular. El producto inicial de esta línea es Cow Tag, un dispositivo IoT para vacas que faculta a los ganaderos para supervisar la ubicación, la salud y el comportamiento de sus animales de manera autónoma y precisa. La visión a largo plazo de FarmTag contempla la expansión de esta solución a otros animales como caballos (HorseTag) y ovejas (SheepTag), adaptando la tecnología a las particularidades de cada especie.
+
+## 🌱 Visión y Familia de Productos
+
+FarmTag es una solución modular que se adapta a diversos tipos de ganado:
+
+* **Cow Tag:** Dispositivo IoT para vacas, optimizado para monitoreo en grandes extensiones rurales.
+* **Horse Tag:** Dispositivo IoT para caballos, con monitoreo de actividad y rendimiento (especial para caballos deportivos y de trabajo).
+* **Sheep Tag:** Dispositivo IoT para ovejas, enfocado en control de salud y productividad (lana, carne, leche).
+
+El objetivo es construir una plataforma única que permita a los ganaderos gestionar todo su ganado desde una única interfaz.
+
+## 🌐 Problemas Ganaderos y Oportunidad
+En Chile, más del 70% de los predios ganaderos se encuentran en zonas rurales sin acceso a señal celular. Los ganaderos enfrentan problemas como:
+
+* **Pérdida de animales:** 12% de pérdida promedio anual por extravío.
+* **Falta de control sanitario:** Más del 40% de los ganaderos no tienen registro sanitario constante.
+* **Bajo acceso a tecnología:** 80% de los ganaderos pequeños no utilizan soluciones tecnológicas.
+
+FarmTag busca resolver estos problemas, ofreciendo un monitoreo preciso y accesible.
+
+## 🚀 Primera Etapa: Cow Tag
 
 ### 🌐 **Seguimiento y Monitoreo Inteligente**
 - 📍 **Seguimiento por GPS en tiempo real:** Permite conocer la ubicación del animal en cualquier momento, mejorando la gestión del ganado en grandes extensiones de terreno.
