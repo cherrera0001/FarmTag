@@ -170,84 +170,58 @@ App Web o Móvil
 
 ---
 
-⚙️ Propuesta MVP Técnica
+# ⚙️ Propuesta MVP Técnica
 
-Lista de materiales (estimado):
+## 📋 Lista de materiales (estimado):
+- **MCU + GPS + LoRa** (ESP32 GPS LoRa + Slot 18650): ~$44.950 CLP  
+- **Panel solar**: ~$2.500 CLP *(no cotizado)*  
+- **Batería + cargador** (TP4056 Micro USB): ~$1.205 CLP  
+- **Caja, conectores, extras** (Caja Plástica IP65): ~$1.952 CLP  
+- **Sensor de Humedad y Temperatura** (DHT11): ~$2.072 CLP  
+- **Acelerómetro y Giroscopio** (MPU6050): ~$4.033 CLP  
+- **Envío Chilexpress** (Chillán): ~$5.085 CLP  
 
-MCU + GPS + LoRa (ESP32 GPS LoRa + Slot 18650): ~$44.950 CLP
+**Costo total por unidad MVP**: ~$67.675 CLP *(sin IVA)*  
 
-Panel solar: ~$2.500 CLP (no cotizado)
+---
 
-Batería + cargador (TP4056 Micro USB): ~$1.205 CLP
+## 🔄 Ciclo de operación:
+1. **Ciclo de lectura GPS**: cada 30–60 minutos.  
+2. **Detección de eventos**: cruce, inactividad.  
+3. **Envío LoRa** → almacenamiento → visualización.  
 
-Caja, conectores, extras (Caja Plástica IP65): ~$1.952 CLP
+---
 
-Sensor de Humedad y Temperatura (DHT11): ~$2.072 CLP
+# 💰 Evaluación de Costos Iniciales
 
-Acelerómetro y Giroscopio (MPU6050): ~$4.033 CLP
+| **Cantidad** | **Precio unitario estimado** | **Costo total aprox.** |
+|--------------|------------------------------|------------------------|
+| 1            | $67.675 CLP                  | $67.675 CLP            |
+| 10           | $64.000 CLP                  | $640.000 CLP           |
+| 100          | $60.000 CLP                  | $6.000.000 CLP         |
 
-Envío Chilexpress (Chillán): ~$5.085 CLP
+---
 
-Costo total por unidad MVP: ~$67.675 CLP (sin IVA)
+# ✅ Conclusiones y Recomendaciones
+- El diseño del MVP es viable **técnica y financieramente**, considerando precios reales.  
+- **LoRa y energía solar** ofrecen autonomía y bajo costo operativo.  
+- Se sugiere iniciar con pruebas de campo usando gateways comunitarios *(TTN)*.  
+- La evolución futura incluirá **cercas virtuales activas**.  
 
-Ciclo de operación:
+---
 
-Ciclo de lectura GPS cada 30–60 minutos.
+## 🚀 Próximos pasos:
+1. Fabricación de prototipos.  
+2. Validación funcional *(campo real)*.  
+3. Iteración de firmware y estructura.  
+4. Preparación de pitch para incubadora/inversionistas.  
 
-Detección de eventos: cruce, inactividad.
+---
 
-Envío LoRa → almacenamiento → visualización.
+# 📞 Contacto  
+**Cristóbal Herrera**  
+📧 *Email*: crherrera@c4a.cl  
 
-💰 Evaluación de Costos Iniciales
-
-Cantidad
-
-Precio unitario estimado
-
-Costo total aprox.
-
-1
-
-$67.675 CLP
-
-$67.675 CLP
-
-10
-
-$64.000 CLP
-
-$640.000 CLP
-
-100
-
-$60.000 CLP
-
-$6.000.000 CLP
-
-✅ Conclusiones y Recomendaciones
-
-El diseño del MVP es viable técnica y financieramente, considerando precios reales.
-
-LoRa y energía solar ofrecen autonomía y bajo costo operativo.
-
-Se sugiere iniciar con pruebas de campo usando gateways comunitarios (TTN).
-
-La evolución futura incluirá cercas virtuales activas.
-
-Próximos pasos:
-
-Fabricación de prototipos.
-
-Validación funcional (campo real).
-
-Iteración de firmware y estructura.
-
-Preparación de pitch para incubadora/inversionistas.
-
-📞 Contacto
-
-Cristóbal Herrera
-Email: crherrera@c4a.cl
 ___
 
 ## 📎 Archivos Adjuntos
