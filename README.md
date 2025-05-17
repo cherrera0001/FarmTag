@@ -117,7 +117,19 @@ FarmTag ofrece soluciones personalizadas para diferentes tipos de ganado, adapt�
 - ☀️ **Energía Solar y Batería de Larga Duración:** Funcionamiento continuo sin intervención frecuente.  
 - 📡 **Conectividad LoRaWAN:** Monitoreo en zonas sin señal celular.  
 - 📲 **Plataforma Web y Móvil:** Acceso intuitivo para gestionar el ganado desde cualquier lugar.  
+- 🚧 **Cercas Virtuales** – Enfoque Técnico
 
+### ¿Cómo funcionan?
+1. Se configura una cerca virtual desde una app o plataforma web.
+2. El collar CowTag monitorea la ubicación del animal vía GPS/LoraWan
+3. Si el animal se acerca a la zona límite:
+   - Se emite una alerta sonora.
+   - (Fase futura) Se aplicaría un impulso leve.
+
+### Consideraciones técnicas:
+- GPS convencional (~2–10 m precisión).
+- Posible evolución a GPS RTK para mayor exactitud.
+- Cercas dinámicas posibles según estaciones o calidad del forraje.
 ---
 
 ## 🌱 **Visión a Corto y Mediano Plazo**
@@ -146,9 +158,6 @@ FarmTag ofrece soluciones personalizadas para diferentes tipos de ganado, adapt�
 - **🌍 Reducción de Huella de Carbono:** Mediante el monitoreo eficiente de la salud y la alimentación del ganado, FarmTag ayuda a reducir las emisiones de metano, uno de los principales gases de efecto invernadero asociados a la ganadería.
 - **💧 Conservación del Agua:** En regiones afectadas por la sequía, FarmTag permite una gestión inteligente de los recursos hídricos, priorizando la hidratación de animales en riesgo.
 
----
-
-
 
 ---
 
@@ -161,23 +170,8 @@ FarmTag ofrece soluciones personalizadas para diferentes tipos de ganado, adapt�
 | Halter       | NZ/USA     | GPS, base inteligente, energía solar  | USD 60/año     | NZ, USA                | Requiere infraestructura compleja |
 | Vence        | Merck      | GPS + base fija                       | USD 40/año     | USA                   | Limitada autonomía energética     |
 
-CowTag busca posicionarse como una alternativa más económica, con independencia celular (gracias a LoRa) y adaptable al terreno rural latinoamericano.
+FarmTag busca posicionarse como una alternativa más económica, con independencia celular (gracias a LoRa) y adaptable al terreno rural latinoamericano.
 
----
-
-## 🚧 Cercas Virtuales – Enfoque Técnico
-
-### ¿Cómo funcionan?
-1. Se configura una cerca virtual desde una app o plataforma web.
-2. El collar CowTag monitorea la ubicación del animal vía GPS.
-3. Si el animal se acerca a la zona límite:
-   - Se emite una alerta sonora.
-   - (Fase futura) Se aplicaría un impulso leve.
-
-### Consideraciones técnicas:
-- GPS convencional (~2–10 m precisión).
-- Posible evolución a GPS RTK para mayor exactitud.
-- Cercas dinámicas posibles según estaciones o calidad del forraje.
 
 ---
 
