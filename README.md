@@ -152,11 +152,24 @@ FarmTag ofrece soluciones personalizadas para diferentes tipos de ganado, adapt�
 - **🥩 Mayor Calidad de la Carne:** Al monitorear la actividad y la alimentación del ganado, se puede garantizar una mejor calidad de la carne producida.
 
 
-## 🌱 **Impacto Social y Ambiental de FarmTag**
-- **🐮 Protección del Patrimonio Ganadero:** Al reducir el robo de ganado y mejorar la salud de los animales, FarmTag protege la fuente de ingresos de miles de familias rurales.
-- **🌿 Sostenibilidad y Bienestar Animal:** Al identificar enfermedades tempranas y optimizar el uso de pastos, FarmTag contribuye a una gestión más responsable y eficiente del ganado.
-- **🌍 Reducción de Huella de Carbono:** Mediante el monitoreo eficiente de la salud y la alimentación del ganado, FarmTag ayuda a reducir las emisiones de metano, uno de los principales gases de efecto invernadero asociados a la ganadería.
-- **💧 Conservación del Agua:** En regiones afectadas por la sequía, FarmTag permite una gestión inteligente de los recursos hídricos, priorizando la hidratación de animales en riesgo.
+## 🌱 Impacto Social y Ambiental de FarmTag
+
+### 🌿 Sostenibilidad Circular
+FarmTag adopta un enfoque sostenible al utilizar **materiales reciclados** y tecnologías de **impresión 3D** para la fabricación de sus collares inteligentes. En una estimación de producción de solo **100 collares a partir de materiales reciclados**, logramos:
+- 🌍 **Reducir 34.8 kg de CO₂** en emisiones, equivalente a evitar el uso de plásticos vírgenes.
+- 🚫 **Evitar que 12 kg de residuos plásticos** lleguen a vertederos o al mar, contribuyendo a la protección del medio ambiente.
+
+### 🐮 Protección del Patrimonio Ganadero
+Al reducir el robo de ganado y mejorar la salud de los animales, FarmTag protege la **fuente de ingresos de miles de familias rurales**.
+
+### 🌱 Bienestar Animal y Gestión Responsable
+FarmTag permite detectar enfermedades tempranas y optimizar el uso de pastos, promoviendo un **manejo más responsable y saludable del ganado**.
+
+### 🌍 Reducción de Huella de Carbono
+Mediante el monitoreo eficiente del ganado y el uso de materiales reciclados, FarmTag contribuye a la **mitigación del impacto ambiental**, reduciendo las **emisiones de metano** y ahorrando recursos naturales.
+
+### 💧 Conservación del Agua
+En regiones afectadas por la sequía, FarmTag facilita una **gestión inteligente de los recursos hídricos**, priorizando la hidratación de animales en riesgo.
 
 
 ---
