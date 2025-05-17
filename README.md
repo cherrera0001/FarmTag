@@ -205,8 +205,9 @@ FarmTag busca posicionarse como una alternativa más económica, con independenc
 ---
 
 ## ☁️ Infraestructura de Datos y Plataforma
-
 ### Arquitectura:
+
+![Diagrama 1 Arquitectura General del Sistema CowTag (1)](https://github.com/user-attachments/assets/88c4856a-4c15-4e7e-926a-d6cc576a5a7f)
 
 ```
 CowTag (GPS+LoRa)
@@ -219,6 +220,10 @@ Firebase/Supabase (Backend + DB)
      ↓
 App Web o Móvil
 ```
+## Flujo de datos
+
+![Diagrama 2 Flujo de Datos del Sistema Cow Tag (1)](https://github.com/user-attachments/assets/7ed0cdc4-1d2e-4323-9db5-48aafa06ff7f)
+
 
 ### Tecnologías:
 - **Backend:** Firebase (rápido), Supabase (open-source).
