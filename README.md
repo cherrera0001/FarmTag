@@ -32,40 +32,16 @@ Aquella escena, aparentemente rutinaria, despertó en mí una pregunta: ¿Qué m
 
 Poco después, conocí a Gabriel, un hombre mayor que también trabajaba con ganado. Una tarde, su esposa le pidió que fuera a buscar a su buey, un animal viejo que solía pastar libremente. Gabriel miró al horizonte y, con una certeza impresionante, dijo: "A esta hora el animal está echado, no lo voy a encontrar". Esa escena me dejó pensando. ¿Y si él pudiera saber con precisión dónde estaba su buey, sin depender solo de su intuición?
 
-Fue entonces cuando entendí que los ganaderos no solo necesitan identificar a sus animales, sino que también requieren información para protegerlos y optimizar su gestión. Y el desafío era evidente: la falta de conectividad en esas zonas rurales. 
-
-> **🔎 Chile pierde aproximadamente 40,000 cabezas de ganado al año debido a robo y depredación**, una cifra que se traduce en millones de dólares en pérdidas para pequeños y medianos productores.
+Fue entonces cuando entendí que los ganaderos no solo necesitan identificar a sus animales, sino que también requieren información para protegerlos y optimizar su gestión. Y el desafío era evidente: la falta de conectividad en esas zonas rurales.
 
 ---
 
-## 🌐 **FarmTag: Solución IoT para Monitoreo Ganadero**
-**FarmTag** nació como una respuesta integral a estos desafíos. No se trata solo de una etiqueta, sino de un sistema inteligente diseñado para transformar la ganadería. Es una solución IoT que combina sensores de ubicación, salud y actividad, permitiendo a los ganaderos monitorear a sus animales en tiempo real, incluso en las zonas más remotas, sin cobertura celular. 
-
-### 🌿 **Impacto en la Producción Ganadera**
-- **📈 Mejora de la Productividad:** Al monitorear la salud y el bienestar del ganado, FarmTag permite a los ganaderos y lecheros (técnicamente conocidos como productores ganaderos y productores lecheros) tomar decisiones a tiempo, mejorando la calidad de la carne y la leche producida.
-- **🐄 Optimización de la Producción Láctea:** Detectar tempranamente enfermedades como mastitis o estrés térmico en las vacas mejora la calidad y cantidad de leche.
-- **🥩 Mayor Calidad de la Carne:** Al monitorear la actividad y la alimentación del ganado, se puede garantizar una mejor calidad de la carne producida.
-
----
-
-## 🛠️ **Innovación Continua y Expansión**
-- **🔬 Investigación y Desarrollo:** FarmTag no se limita a ser solo un dispositivo IoT. Existe una necesidad constante de investigar y desarrollar nuevas tecnologías, como un **chip subcutáneo inteligente**, que permita un monitoreo aún más preciso y seguro de la salud del ganado.
-- **🌐 Expansión Geográfica:** Aunque FarmTag nació en el sur de Chile, su potencial va mucho más allá. Esta solución puede adaptarse y escalarse a otras regiones, como el norte del país, e incluso expandirse a mercados internacionales.
-- **🌍 Diversificación de Especies:** FarmTag puede evolucionar para monitorear no solo vacas (CowTag), sino también caballos (HorseTag), ovejas (SheepTag) y otros animales, ampliando su impacto.
-- **🚀 Producto de Exportación:** Con su diseño tecnológico y su enfoque en la sostenibilidad, FarmTag tiene el potencial de convertirse en un producto exportable, capaz de competir con marcas internacionales como Nofence, Gallagher o Halter.
-
----
-
-## 🌱 **Impacto Social y Ambiental de FarmTag**
-- **🐮 Protección del Patrimonio Ganadero:** Al reducir el robo de ganado y mejorar la salud de los animales, FarmTag protege la fuente de ingresos de miles de familias rurales.
-- **🌿 Sostenibilidad y Bienestar Animal:** Al identificar enfermedades tempranas y optimizar el uso de pastos, FarmTag contribuye a una gestión más responsable y eficiente del ganado.
-- **🌍 Reducción de Huella de Carbono:** Mediante el monitoreo eficiente de la salud y la alimentación del ganado, FarmTag ayuda a reducir las emisiones de metano, uno de los principales gases de efecto invernadero asociados a la ganadería.
-- **💧 Conservación del Agua:** En regiones afectadas por la sequía, FarmTag permite una gestión inteligente de los recursos hídricos, priorizando la hidratación de animales en riesgo.
-
----
 ## 📊 **Datos Duros del Sector Ganadero en Chile**
 
-- **🐂 Robo de Ganado (Abigeato):** Según el Servicio Agrícola y Ganadero (SAG), el abigeato es una preocupación constante para los productores ganaderos en Chile. La implementación de sistemas de trazabilidad, como los Dispositivos de Identificación Individual Oficial (DIIO), busca mitigar este problema al facilitar el seguimiento y control del ganado.  
+
+## **🔎 Chile pierde proximadamente 40,000 cabezas de ganado al año debido a robo y depredación**, una cifra que se traduce en millones de dólares en pérdidas para pequeños y medianos productores(Abigeato).
+
+- **🐂 Abigeato:** Según el Servicio Agrícola y Ganadero (SAG), el abigeato es una preocupación constante para los productores ganaderos en Chile. La implementación de sistemas de trazabilidad, como los Dispositivos de Identificación Individual Oficial (DIIO), busca mitigar este problema al facilitar el seguimiento y control del ganado.  
   🔗 [SAG - Programa Oficial de Trazabilidad Animal](https://www.sag.gob.cl/programa/programa-oficial-de-trazabilidad-animal)
 
 - **🌡️ Enfermedades Relacionadas con el Calor:** El Instituto de Investigaciones Agropecuarias (INIA) ha destacado que las variaciones de temperatura incrementan las enfermedades respiratorias en el ganado, especialmente durante olas de calor. Estas enfermedades pueden reducir la productividad lechera en un **20%**.  
@@ -87,71 +63,92 @@ Fue entonces cuando entendí que los ganaderos no solo necesitan identificar a s
 
 ### 🌱 **Estos datos subrayan la necesidad de soluciones como FarmTag, que integran tecnología IoT para mejorar la trazabilidad, salud y productividad del ganado, especialmente en zonas rurales con desafíos de conectividad y gestión.** 🚀
 
+---
+## 🚀 **FarmTag: Innovación Inteligente para la Ganadería**
+
+FarmTag es una solución avanzada de monitoreo inteligente para ganado, diseñada para transformar la gestión ganadera. No es solo un dispositivo, es una red inteligente que combina tecnología IoT, inteligencia artificial y conectividad avanzada para mejorar la eficiencia, seguridad y productividad en la ganadería.
 
 ---
 
-## 🚀 **FarmTag: Una Solución IoT Inteligente para la Ganadería Moderna**
-
-FarmTag es mucho más que tecnología. Es una solución integral que combina seguridad para el ganadero, bienestar para los animales y sostenibilidad para el planeta. Nuestra plataforma no solo identifica a los animales, sino que también monitorea su salud, ubicación y comportamiento en tiempo real, incluso en las zonas más remotas.
-
-🌱 **Nuestra visión es clara:** transformar la ganadería, haciéndola más eficiente, segura y responsable. FarmTag es más que un dispositivo, es una red inteligente diseñada para apoyar a los productores ganaderos en cada decisión.
+### 🛠️ **Innovación y Expansión**
+- **🔬 Investigación Continua:** FarmTag evoluciona constantemente. Estamos desarrollando un **chip subcutáneo inteligente**, que permitirá un monitoreo aún más preciso de la salud animal, sin afectar su bienestar.  
+- **🌐 Expansión Global:** Desde Chile hacia el mundo. FarmTag es una solución adaptable que puede implementarse en cualquier región, especialmente en zonas rurales sin conectividad.  
+- **🌍 Diversificación de Especies:** FarmTag no se limita a vacas. Ofrecemos dispositivos especializados para caballos (HorseTag), ovejas (SheepTag) y proyectamos su uso para otras especies como cabras y cerdos.  
+- **🚀 Producto Competitivo:** Con tecnología avanzada y diseño sostenible, FarmTag está listo para competir en mercados internacionales, destacando frente a marcas como Nofence, Gallagher y Halter.  
 
 ---
 
-## 🌱 **Familia de Productos FarmTag**
-
-FarmTag es una solución modular que se adapta a las necesidades de diferentes tipos de ganado, permitiendo a los ganaderos elegir el dispositivo ideal según sus requerimientos:
+### 🌱 **Familia de Productos FarmTag**
+FarmTag ofrece soluciones personalizadas para diferentes tipos de ganado, adaptándose a las necesidades específicas de cada especie:
 
 ![image](https://github.com/user-attachments/assets/5b34b61f-c561-4a51-ab9a-b581854160d7)
 
 - **🐄 CowTag:**  
-  - 📍 Monitoreo de ubicación en grandes extensiones rurales.  
+  - 📍 Monitoreo de ubicación en tiempo real.  
   - 🩺 Control de salud mediante sensores de temperatura y actividad.  
-  - 🌿 Ideal para ganaderos de vacas lecheras y de carne.  
+  - 🌿 Ideal para vacas lecheras y de carne.  
 
 - **🐎 HorseTag:**  
-  - 📊 Monitoreo de actividad y rendimiento para caballos deportivos y de trabajo.  
-  - ❤️ Control de frecuencia cardíaca y bienestar general.  
-  - 🚀 Especial para caballos de carreras, equitación y trabajo agrícola.  
+  - 📊 Monitoreo de rendimiento y actividad.  
+  - ❤️ Control de frecuencia cardíaca para caballos deportivos.  
+  - 🚀 Optimizado para caballos de carreras, equitación y trabajo agrícola.  
 
 - **🐑 SheepTag:**  
-  - 🌡️ Monitoreo de salud para ovejas, detectando enfermedades tempranas.  
+  - 🌡️ Monitoreo de salud y detección temprana de enfermedades.  
   - 🐏 Control de productividad (lana, carne y leche).  
-  - 📍 Ubicación en tiempo real, optimizando el manejo de rebaños.  
+  - 📍 Ubicación en tiempo real para gestión de rebaños.  
 
 ---
 
 ### 🌐 **¿Qué hace única a la familia FarmTag?**
-- **🌐 Conectividad en Zonas Rurales:** FarmTag opera en áreas sin señal celular gracias a la tecnología LoRaWAN y conectividad satelital.  
-- **🔋 Eficiencia Energética:** Dispositivos de bajo consumo energético, con opción de energía solar para mayor autonomía.  
-- **🌿 Sostenibilidad:** Mejora el bienestar animal y reduce el impacto ambiental de la ganadería.  
-- **📊 Inteligencia Predictiva:** Nuestro sistema utiliza inteligencia artificial (Gabriel AI) para detectar patrones anómalos en el comportamiento y salud de los animales, generando alertas automáticas para el ganadero.  
-- **🔒 Seguridad y Protección de Datos:** Todos los datos son encriptados y gestionados de manera segura.  
-
-🚀 **FarmTag no solo te informa, te permite anticipar problemas, optimizar recursos y mejorar la productividad de tu ganado.** 🌱
-
-![image](https://github.com/user-attachments/assets/eb81f690-d305-4bf1-a140-ba20dd8f14b6)
-
-
-## 🚀 Primera Etapa: CowTag
-
-### 🌐 **Seguimiento y Monitoreo Inteligente**
-- 📍 **Seguimiento por GPS en tiempo real:** Permite conocer la ubicación del animal en cualquier momento, mejorando la gestión del ganado en grandes extensiones de terreno.
-- 🚨 **Alertas de comportamiento anómalo:** Detecta situaciones como inactividad prolongada, movimiento errático o posible escape del animal, enviando notificaciones automáticas al usuario.
-- 🧭 **Geocercas configurables:** Configuración de cercas virtuales para definir límites de movimiento sin necesidad de vallas físicas, una solución versátil y adaptable (implementación prevista para fases futuras).
-- ☀️ **Operación autónoma:** Alimentación mediante panel solar y batería de larga duración, garantizando un funcionamiento continuo sin intervención humana frecuente.
-- 📡 **Conectividad avanzada:** Comunicación a través de LoRaWAN, una tecnología que permite el monitoreo incluso en zonas rurales sin cobertura celular.
-- 📲 **Plataforma de gestión web/móvil:** Acceso a través de una aplicación intuitiva y fácil de usar, diseñada para usuarios no técnicos, compatible con cualquier dispositivo.
+- **🌐 Conectividad sin Límites:** Opera en zonas rurales sin señal celular gracias a LoRaWAN y conectividad satelital.  
+- **🔋 Eficiencia Energética:** Dispositivos de bajo consumo, con opción de energía solar para mayor autonomía.  
+- **🌿 Sostenibilidad Inteligente:** Monitoreo de salud y bienestar animal para una gestión ganadera responsable.  
+- **📊 Inteligencia Predictiva (Gabriel AI):** Nuestro sistema usa inteligencia artificial para analizar el comportamiento y salud del ganado, enviando alertas automáticas al ganadero.  
+- **🔒 Seguridad de Datos:** Todos los datos están protegidos con encriptación avanzada, garantizando privacidad y seguridad.  
 
 ---
 
-### 🌱 **Visión a Corto y Mediano Plazo**
-- 🌡️ **Sensores adicionales:** Integración de sensores de temperatura corporal y frecuencia cardíaca para monitoreo de salud.
-- 🍃 **Detección de patrones de alimentación:** Identificación de consumo de alimento y alerta ante falta de movimiento prolongado.
-- 🗺️ **Mapas de comportamiento:** Generación de rutas frecuentes y mapas de calor para análisis de desplazamientos del ganado.
-- 🔋 **Estado energético del dispositivo:** Monitoreo del nivel de batería del collar y alertas automáticas por bajo rendimiento energético.
-- 📊 **Estimaciones predictivas:** Uso de inteligencia artificial para predecir condiciones como preñez, enfermedades o problemas digestivos (detección de rumia).
-- 📝 **Reportes automáticos:** Generación de reportes trazables para cumplir con normativas del SAG o para exportación, facilitando la gestión documental del productor.
+## 🚀 **Primera Etapa: CowTag**
+### 🌐 **Monitoreo Inteligente y Autonomía**
+- 📍 **GPS en Tiempo Real:** Ubicación precisa del ganado en cualquier momento.  
+- 🚨 **Alertas Automáticas:** Notificaciones de comportamiento anómalo (inactividad, movimiento errático, escape).  
+- 🧭 **Geocercas Virtuales:** Definición de límites de movimiento sin necesidad de cercas físicas.  
+- ☀️ **Energía Solar y Batería de Larga Duración:** Funcionamiento continuo sin intervención frecuente.  
+- 📡 **Conectividad LoRaWAN:** Monitoreo en zonas sin señal celular.  
+- 📲 **Plataforma Web y Móvil:** Acceso intuitivo para gestionar el ganado desde cualquier lugar.  
+
+---
+
+## 🌱 **Visión a Corto y Mediano Plazo**
+- 🌡️ **Sensores Adicionales:** Monitoreo de temperatura corporal y frecuencia cardíaca para una salud animal precisa.  
+- 🍃 **Detección de Patrones de Alimentación:** Identificación de consumo de alimento y alertas por falta de movimiento.  
+- 🗺️ **Mapas de Comportamiento:** Visualización de rutas frecuentes y análisis de desplazamiento.  
+- 🔋 **Monitoreo Energético:** Notificaciones de bajo rendimiento de la batería para garantizar operación continua.  
+- 📊 **IA Predictiva (Gabriel AI):** Identificación de condiciones como preñez, enfermedades o problemas digestivos.  
+- 📝 **Reportes Automáticos:** Documentación trazable para cumplir normativas del SAG y facilitar exportaciones.  
+
+---
+
+🚀 **FarmTag no es solo tecnología, es una solución que permite a los ganaderos tomar decisiones informadas, anticipar problemas y maximizar la productividad de su ganado.** 🌱
+
+---
+
+### 🌿 **Impacto en la Producción Ganadera**
+- **📈 Mejora de la Productividad:** Al monitorear la salud y el bienestar del ganado, FarmTag permite a los ganaderos y lecheros (técnicamente conocidos como productores ganaderos y productores lecheros) tomar decisiones a tiempo, mejorando la calidad de la carne y la leche producida.
+- **🐄 Optimización de la Producción Láctea:** Detectar tempranamente enfermedades como mastitis o estrés térmico en las vacas mejora la calidad y cantidad de leche.
+- **🥩 Mayor Calidad de la Carne:** Al monitorear la actividad y la alimentación del ganado, se puede garantizar una mejor calidad de la carne producida.
+
+
+## 🌱 **Impacto Social y Ambiental de FarmTag**
+- **🐮 Protección del Patrimonio Ganadero:** Al reducir el robo de ganado y mejorar la salud de los animales, FarmTag protege la fuente de ingresos de miles de familias rurales.
+- **🌿 Sostenibilidad y Bienestar Animal:** Al identificar enfermedades tempranas y optimizar el uso de pastos, FarmTag contribuye a una gestión más responsable y eficiente del ganado.
+- **🌍 Reducción de Huella de Carbono:** Mediante el monitoreo eficiente de la salud y la alimentación del ganado, FarmTag ayuda a reducir las emisiones de metano, uno de los principales gases de efecto invernadero asociados a la ganadería.
+- **💧 Conservación del Agua:** En regiones afectadas por la sequía, FarmTag permite una gestión inteligente de los recursos hídricos, priorizando la hidratación de animales en riesgo.
+
+---
+
+
 
 ---
 
