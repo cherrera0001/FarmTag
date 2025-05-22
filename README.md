@@ -42,13 +42,18 @@ Fue entonces cuando entendí que los ganaderos no solo necesitan identificar a s
 # **🔎 Chile pierde proximadamente 40,000 cabezas de ganado al año debido a robo y depredación**, una cifra que se traduce en millones de dólares en pérdidas para pequeños y medianos productores (Abigeato).
 
 - **🐂 Abigeato:** Según el Servicio Agrícola y Ganadero (SAG), el abigeato es una preocupación constante para los productores ganaderos en Chile. La implementación de sistemas de trazabilidad, como los Dispositivos de Identificación Individual Oficial (DIIO), busca mitigar este problema al facilitar el seguimiento y control del ganado.  
-  🔗 [SAG - Programa Oficial de Trazabilidad Animal](https://www.sag.gob.cl/programa/programa-oficial-de-trazabilidad-animal)
+  🔗 [SAG - Programa Oficial de Trazabilidad Animal](https://www.sag.gob.cl/ambitos-de-accion/programa-oficial-de-trazabilidad-animal)
 
 - **🌡️ Enfermedades Relacionadas con el Calor:** El Instituto de Investigaciones Agropecuarias (INIA) ha destacado que las variaciones de temperatura incrementan las enfermedades respiratorias en el ganado, especialmente durante olas de calor. Estas enfermedades pueden reducir la productividad lechera en un **20%**.  
   🔗 [INIA - Boletín Nacional de Análisis de Riesgos Agroclimáticos](https://riesgoclimatico.inia.cl/public/resumenPDF/107)
+  🔗 [Versión en ResearchGate](https://www.researchgate.net/publication/370546384_Estimation_of_the_economic_impact_of_heat_stress_on_dairy_production_systems_in_Chile/fulltext/64550ab94af78873525e95a0/Estimation_of_the-economic-impact-of-heat-stress-on-dairy-production-systems-in-Chile.pdf)
+  https://www.researchgate.net/publication/370546384_Estimation_of_the_economic_impact_of_heat_stress_on_dairy_production_systems_in_Chile/fulltext/64550ab94af78873525e95a0/Estimation-of-the-economic-impact-of-heat-stress-on-dairy-production-systems-in-Chile.pdf
 
 - **📶 Conectividad en Zonas Rurales:** En regiones rurales de Chile, más del **60% de las fincas** carecen de conectividad estable, lo que dificulta la gestión eficiente del ganado y la implementación de tecnologías avanzadas para su monitoreo.  
   🔗 [INIA - Estrategias Innovadoras en Genética y Sanidad Ganadera](https://www.inia.cl/2024/06/11/estrategias-innovadoras-en-genetica-y-sanidad-ganadera-marcan-jornada-de-inia-en-aysen/)
+  Para más detalles sobre la iniciativa conjunta del Gobierno de Chile y la ONU para lanzar un proyecto de conectividad rural innovador, puedes consultar el artículo completo aquí:
+
+ 🔗 [Transformación Digital en Zonas Rurales: Gobierno de Chile y ONU lanzan un proyecto innovador de conectividad](https://www.jointsdgfund.org/article/digital-transformation-rural-areas-government-chile-and-un-launch-innovative-connectivity)
 
 - **📉 Pérdida de Animales por Extravío:** Los ganaderos enfrentan una pérdida promedio anual del **12% de su ganado** debido al extravío, lo que representa una pérdida económica significativa para pequeños y medianos productores.  
   🔗 [SAG - Programa Nacional de Control del Abigeato](https://www.sag.gob.cl/programa/programa-nacional-de-control-del-abigeato)
