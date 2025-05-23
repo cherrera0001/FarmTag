@@ -1,4 +1,5 @@
-![Logo _FarmTag_ con elementos rurales](https://github.com/user-attachments/assets/a4e5a11c-4e26-4d0c-8ad6-e45a29fdb613)
+
+![image](https://github.com/user-attachments/assets/e8fb235c-995f-4377-9a0e-29809f81be18)
 
 
 # FarmTag: Dispositivo IoT para monitoreo ganadero en zonas rurales de Chile
