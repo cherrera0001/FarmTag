@@ -49,7 +49,7 @@ Este hallazgo nos emocionó profundamente y le dio un propósito aún más simb�
 ## 📊 **Datos Duros del Sector Ganadero en Chile**
 
 
-# **🔎 Chile pierde proximadamente 40,000 cabezas de ganado al año debido a robo y depredación**, una cifra que se traduce en millones de dólares en pérdidas para pequeños y medianos productores (Abigeato).
+# **🔎 Chile pierde aproximadamente 8.000 cabezas de ganado al año debido a robo y depredación**, una cifra que se traduce en millones de dólares en pérdidas para pequeños y medianos productores (Abigeato).
 
 - **🐂 Abigeato:** Según el Servicio Agrícola y Ganadero (SAG), el abigeato es una preocupación constante para los productores ganaderos en Chile. La implementación de sistemas de trazabilidad, como los Dispositivos de Identificación Individual Oficial (DIIO), busca mitigar este problema al facilitar el seguimiento y control del ganado.  
   🔗 [SAG - Programa Oficial de Trazabilidad Animal](https://www.sag.gob.cl/ambitos-de-accion/programa-oficial-de-trazabilidad-animal)
