@@ -53,6 +53,9 @@ Este hallazgo nos emocionó profundamente y le dio un propósito aún más simb�
 
 - **🐂 Abigeato:** Según el Servicio Agrícola y Ganadero (SAG), el abigeato es una preocupación constante para los productores ganaderos en Chile. La implementación de sistemas de trazabilidad, como los Dispositivos de Identificación Individual Oficial (DIIO), busca mitigar este problema al facilitar el seguimiento y control del ganado.  
   🔗 [SAG - Programa Oficial de Trazabilidad Animal](https://www.sag.gob.cl/ambitos-de-accion/programa-oficial-de-trazabilidad-animal)
+  🔗 [2012: Ley de abigateo según Fucoa.cl](https://fucoa.cl/2012/11/07/ley-de-abigeato-fortalece-el-combate-de-la-delincuencia-en-el-campo/)
+  🔗 [Octubre-2023 - BCN ](https://www.bcn.cl/historiadelaley/fileadmin/file_ley/4431/HLD_4431_37a6259cc0c1dae299a7866489dff0bd.pdf)
+  
 
 - **🌡️ Enfermedades Relacionadas con el Calor:** El Instituto de Investigaciones Agropecuarias (INIA) ha destacado que las variaciones de temperatura incrementan las enfermedades respiratorias en el ganado, especialmente durante olas de calor. Estas enfermedades pueden reducir la productividad lechera en un **20%**.  
   🔗 [INIA - Boletín Nacional de Análisis de Riesgos Agroclimáticos](https://riesgoclimatico.inia.cl/public/resumenPDF/107)
