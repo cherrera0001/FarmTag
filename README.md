@@ -53,6 +53,11 @@ Este hallazgo nos emocionó profundamente y le dio un propósito aún más simb�
 🔗 Más información sobre el legado del Dr. Vivallo: [Campero Electrónico - UCT](https://3w.uct.cl/boletin/index.php?op=ver_noticia&idn=1362)
 
 
+## 🔍 Validación con Usuarios
+
+Hemos realizado entrevistas y validaciones preliminares con ganaderos de Ñuble, Biobío y La Araucanía. Sus comentarios han nutrido la evolución del MVP y han confirmado la necesidad urgente de soluciones como FarmTag. El siguiente paso será una validación de campo con usuarios reales para recoger métricas de impacto y usabilidad.
+
+
 ---
 
 ## 📊 **Datos Duros del Sector Ganadero en Chile**
