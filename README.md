@@ -35,6 +35,15 @@ Poco después, conocí a Gabriel, un hombre mayor que también trabajaba con gan
 
 Fue entonces cuando entendí que los ganaderos no solo necesitan identificar a sus animales, sino que también requieren información para protegerlos y optimizar su gestión. Y el desafío era evidente: la falta de conectividad en esas zonas rurales.
 
+## 🌟 Propósito
+
+FarmTag busca democratizar el acceso a tecnología ganadera inteligente en zonas rurales de Chile y América Latina, permitiendo a pequeños y medianos ganaderos tomar decisiones basadas en datos, reducir pérdidas y mejorar el bienestar animal, integrando tecnologías como IoT, IA y energías limpias.
+
+**Visión:** Ser la solución de monitoreo animal más accesible y adaptable del Cono Sur para el año 2030.
+
+**Misión:** Implementar tecnología ganadera eficiente, ética y sostenible en cada campo chileno con necesidades reales.
+
+
 ## 🧠 Inspiración Profunda: Gabriel AI y un Legado Chileno
 
 Lo increíble es que, mientras investigaba estas necesidades a raíz de las recomendaciones de mi tío Queño, descubrí que mi elección intuitiva de llamar **"Gabriel AI"** a nuestra inteligencia artificial no era solo una coincidencia. El nombre resonó profundamente con la historia del **Dr. Gabriel Vivallo Pinare**, un visionario investigador chileno que ya en 2007 lideraba el proyecto **"Campero Electrónico"** en la Universidad Católica de Temuco —una de las primeras propuestas para modernizar la ganadería nacional mediante tecnología.
