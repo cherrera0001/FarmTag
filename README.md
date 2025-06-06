@@ -96,6 +96,17 @@ Hemos realizado entrevistas y validaciones preliminares con ganaderos de Ñuble,
 ### 🌱 **Estos datos subrayan la necesidad de soluciones como FarmTag, que integran tecnología IoT para mejorar la trazabilidad, salud y productividad del ganado, especialmente en zonas rurales con desafíos de conectividad y gestión.** 🚀
 
 ---
+
+## 📘 Anexo N°3 – Estrategia de Sostenibilidad FarmTag (Formato CORFO)
+
+A continuación se presenta el diseño preliminar de la estrategia de sostenibilidad del proyecto FarmTag, estructurada bajo el formato del Anexo N°3 exigido por CORFO para Semilla Inicia. Se consideran medidas iniciales orientadas al diagnóstico, priorización y diseño de objetivos estratégicos, con indicadores definidos, en los tres focos ESG.
+
+| **Foco ESG**           | **ODS Priorizado**                                    | **Objetivo Estratégico**                                                                                          | **Indicador (Inicial)**                                                                                              |
+|------------------------|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| **SOCIAL**             | ODS 8: Trabajo decente y crecimiento económico<br>ODS 2: Hambre Cero | Democratizar el acceso a tecnologías de trazabilidad y monitoreo inteligente para pequeños ganaderos.            | - N° de productores rurales integrados al sistema FarmTag<br>- % de usuarios sin tecnologías previas en sus predios   |
+| **AMBIENTAL**          | ODS 12: Producción y consumo responsables<br>ODS 13: Acción por el clima<br>ODS 15: Vida de ecosistemas terrestres | Reducir las pérdidas productivas y mejorar la eficiencia ambiental del sistema ganadero extensivo en Ñuble.     | - % estimado de reducción en pérdidas por extravío o robo<br>- N° de animales monitorizados con sensores activos       |
+| **GOBIERNO CORPORATIVO** | ODS 9: Industria, innovación e infraestructura                        | Asegurar la gobernanza de datos y la transparencia de la plataforma tecnológica de FarmTag.                       | - Existencia de una política de privacidad de datos<br>- N° de convenios institucionales activos (UdeC, INDAP, SAG)    |
+
 ## 🚀 **FarmTag: Innovación Inteligente para la Ganadería**
 
 FarmTag es una solución avanzada de monitoreo inteligente para ganado, diseñada para transformar la gestión ganadera. No es solo un dispositivo, es una red inteligente que combina tecnología IoT, inteligencia artificial y conectividad avanzada para mejorar la eficiencia, seguridad y productividad en la ganadería.
