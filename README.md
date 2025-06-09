@@ -310,7 +310,7 @@ App Web o Móvil
 
 ---
 
-# 💰 Evaluación de Costos Iniciales
+# 💰 Evaluación de Costos Iniciales ( variables según investigación y desarrollo de hardware).
 
 | **Cantidad** | **Precio unitario estimado** | **Costo total aprox.** |
 |--------------|------------------------------|------------------------|
