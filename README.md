@@ -338,7 +338,9 @@ App Web o Móvil
 
 # 📞 Contacto  
 **Cristóbal Herrera**  
+📧 *Email*: herrera.jara.cristobal@gmail.com
 📧 *Email*: crherrera@c4a.cl  
+
 
 ___
 
