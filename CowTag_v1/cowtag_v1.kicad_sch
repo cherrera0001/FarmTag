@@ -1,0 +1,614 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55")
+	(paper "A4")
+	(title_block
+		(title "CowTag - Sistema Principal")
+		(date "2025-06-21")
+		(rev "v1.0")
+		(company "FarmTag")
+		(comment 1 "Collar inteligente para ganado")
+		(comment 2 "GNSS + LoRa + Sensores + Solar")
+		(comment 3 "Alcance >10km, Autonomía >30 días")
+		(comment 4 "Diseño jerarquico modular")
+	)
+	(lib_symbols)
+	(sheet
+		(at 50.8 50.8)
+		(size 50.8 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a98e83b6-08f6-4b22-9d8a-7b5c50f3f842")
+		(property "Sheetname" "Power Management"
+			(at 50.8 50.0894 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_management.kicad_sch"
+			(at 50.8 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3V3" output
+			(at 101.6 60.96 0)
+			(uuid "31b1e0c4-f8a9-4f5d-b2e8-9c4d7e6f1a2b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GND" output
+			(at 101.6 66.04 0)
+			(uuid "699bd837-1e2a-4275-8091-bdc9aa93330b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SOLAR_IN" input
+			(at 50.8 55.88 180)
+			(uuid "09b7da23-4c1d-4b28-93a0-48d257d14400")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BAT_STAT" output
+			(at 101.6 71.12 0)
+			(uuid "993e2fbf-a249-4b62-8db4-970a0d0f30b6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cowtag_v1"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 130.48 90.17)
+		(size 50.8 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b4e94d73-8f61-4c83-a5e4-73f2a6b9de42")
+		(property "Sheetname" "LoRa Module"
+			(at 130.48 89.4594 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "lora_module.kicad_sch"
+			(at 130.48 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3V3" input
+			(at 130.48 100.33 180)
+			(uuid "a9fb6856-25d1-4ce0-9cbb-44907ad2d602")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GND" input
+			(at 130.48 105.41 180)
+			(uuid "b9089096-eac3-44f5-835a-81683ee18ce2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI_CLK" input
+			(at 130.48 93.98 180)
+			(uuid "e4cc8fed-f66d-455d-b5cd-193af0dd8a3b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI_MISO" output
+			(at 130.48 96.52 180)
+			(uuid "3a116f42-d6e1-4bbc-81c9-bcd21e43f033")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI_MOSI" input
+			(at 130.48 99.06 180)
+			(uuid "8290e300-46e0-4177-b9a4-ee8c34d5ef2d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LORA_CS" input
+			(at 130.48 110.49 180)
+			(uuid "a642a079-3a5d-4b52-a8a0-bc1474377906")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LORA_RST" input
+			(at 130.48 113.03 180)
+			(uuid "e9af9cd1-3a78-4163-9cc0-32d97cd57059")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LORA_DIO0" output
+			(at 181.28 93.98 0)
+			(uuid "5a7e817b-1509-4bb2-868c-074fffad14a8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cowtag_v1"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 130.48 50.8)
+		(size 50.8 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c7fb5e94-4d91-4e8a-9b5a-67394ab5fb2c")
+		(property "Sheetname" "Main MCU"
+			(at 130.48 50.0894 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "main_mcu.kicad_sch"
+			(at 130.48 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3V3" input
+			(at 130.48 60.96 180)
+			(uuid "48fe60ad-d3da-4ed2-8c33-464d8364a9f0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GND" input
+			(at 130.48 66.04 180)
+			(uuid "0e06960d-b0d9-40b7-9a6a-37d2fab7cf5d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI_CLK" output
+			(at 181.28 55.88 0)
+			(uuid "a0352e04-2afb-4723-bfce-7a3c3115c337")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI_MISO" input
+			(at 181.28 58.42 0)
+			(uuid "b9d92878-e478-48aa-91a7-384eafdf0f06")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI_MOSI" output
+			(at 181.28 60.96 0)
+			(uuid "5775fd7c-47a5-4542-9b81-2c1ead916b85")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C_SDA" bidirectional
+			(at 181.28 66.04 0)
+			(uuid "42944ac7-6f17-437f-b96d-42ce04a94b3b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C_SCL" output
+			(at 181.28 68.58 0)
+			(uuid "a24147c9-4e2c-4e22-a79d-617c7eb92bdf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART_TX" output
+			(at 181.28 71.12 0)
+			(uuid "b6a4b049-c56e-40fc-8e03-a1b442ea0d3c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART_RX" input
+			(at 181.28 73.66 0)
+			(uuid "c9c49e2b-13f7-4a87-82e5-73d80e8d8c4f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ONEWIRE" bidirectional
+			(at 181.28 76.2 0)
+			(uuid "c26756f7-a998-4d08-83d6-c67de48f60ba")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "LORA_CS" output
+			(at 181.28 63.5 0)
+			(uuid "19e19da3-c23f-486e-bc4e-bf5764b90479")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "LORA_RST" output
+			(at 181.28 53.34 0)
+			(uuid "4a3302de-e7d8-4aca-a141-b0995eb92792")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "LORA_DIO0" input
+			(at 181.28 50.8 0)
+			(uuid "5e9f4bab-885a-40ae-bc23-cc1156d47c8c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "LED_STATUS" output
+			(at 130.48 71.12 180)
+			(uuid "5a77c4bc-7583-48b0-8144-162e8de3279a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "cowtag_v1"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 210.82 50.8)
+		(size 50.8 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d5e72b94-8f61-4c83-a5e4-73f2a6b9de42")
+		(property "Sheetname" "Sensors"
+			(at 210.82 50.0894 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensors.kicad_sch"
+			(at 210.82 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3V3" input
+			(at 210.82 60.96 180)
+			(uuid "1699a803-f45f-4adb-b576-3480fd7d2d5b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GND" input
+			(at 210.82 66.04 180)
+			(uuid "981b55ec-c8a9-47e3-8cc2-d4d40e833001")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C_SDA" bidirectional
+			(at 210.82 68.58 180)
+			(uuid "3ba5760f-b34b-4555-8561-cbafebc35626")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C_SCL" input
+			(at 210.82 71.12 180)
+			(uuid "fcd739e2-5a74-4daf-92eb-851915ddf3eb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ONEWIRE" bidirectional
+			(at 210.82 73.66 180)
+			(uuid "fc9b2700-b1b6-4fbf-a18f-54a96e9ec445")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LED_STATUS" input
+			(at 210.82 58.42 180)
+			(uuid "4c505e52-982d-4f62-b7cd-297369f6a27b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "cowtag_v1"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 90.17)
+		(size 50.8 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f8e92d84-7a81-4b73-b2c5-6e7395ba3f51")
+		(property "Sheetname" "GNSS Module"
+			(at 50.8 89.4594 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gnss_module.kicad_sch"
+			(at 50.8 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3V3" input
+			(at 101.6 100.33 0)
+			(uuid "7bd5cbe8-55e5-4506-a9a3-ce48cc7ebd0a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GND" input
+			(at 101.6 105.41 0)
+			(uuid "591f716c-f6f4-47fc-bbe3-9da87fbe1671")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART_TX" output
+			(at 101.6 93.98 0)
+			(uuid "454dc34a-74bb-455c-8adb-1faee9ee668c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART_RX" input
+			(at 101.6 96.52 0)
+			(uuid "5966492e-a209-4b21-b5f8-63de84f60b16")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C_SDA" bidirectional
+			(at 101.6 110.49 0)
+			(uuid "755a3a5b-a9aa-4919-8c15-6936e9881a6f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C_SCL" input
+			(at 101.6 113.03 0)
+			(uuid "4d033ed8-f0fa-4ffb-9305-34f42dc8a2ce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cowtag_v1"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

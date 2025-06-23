@@ -1,0 +1,63 @@
+Reference,Qty,Value,Package,Description,Manufacturer,Part Number,Supplier,Supplier Part Number,Cost (USD)
+U101,1,CN3065,SOP-8,Solar Battery Charge Controller MPPT,Consonance,CN3065,LCSC,C108595,0.85
+U102,1,MP1584EN,SOT-23-6,Buck Converter 3A 95% Efficiency,Monolithic Power Systems,MP1584EN,Digikey,1589-1118-1-ND,1.20
+U201,1,ESP32-S3-WROOM-1,ESP32-S3-WROOM-1,WiFi+BT MCU Module Ultra-Low Power,Espressif,ESP32-S3-WROOM-1,Mouser,356-ESP32S3WROOM1,8.50
+U301,1,MAX-M10S,LGA-5.5x5.5,GNSS Receiver Ultra-Low Power,u-blox,MAX-M10S-00B,Digikey,672-MAX-M10S-00B-ND,12.40
+U401,1,RFM95W,SMD-16x16,LoRa Transceiver 915MHz SX1276,HopeRF,RFM95W-915S2,Mouser,474-RFM95W-915S2,8.95
+U501,1,LIS3DH,LGA-16,3-Axis Accelerometer Ultra-Low Power,STMicroelectronics,LIS3DHTR,Digikey,497-10613-1-ND,2.10
+U502,1,DS18B20,SOT-23,Digital Temperature Sensor ±0.5°C,Maxim,DS18B20+T&R,Digikey,DS18B20+T&R-ND,3.25
+C101,1,10µF,0805,Ceramic Capacitor X7R 25V,Samsung,CL21B106KOQNNNE,LCSC,C15850,0.05
+C102,1,22µF,1206,Ceramic Capacitor X7R 25V,Samsung,CL31B226KAHNNNE,LCSC,C13585,0.08
+C103,1,470µF,1210,Ceramic Capacitor X7R 16V,Samsung,CL32A477MPJNNNE,LCSC,C13698,0.15
+C104,1,220µF,1206,Ceramic Capacitor X7R 16V,Samsung,CL31A227MPHNNNE,LCSC,C13699,0.12
+C201,1,100nF,0603,Ceramic Capacitor X7R 50V,Samsung,CL10B104KB8NNNC,LCSC,C14663,0.01
+C202,1,10µF,0805,Ceramic Capacitor X7R 25V,Samsung,CL21B106KOQNNNE,LCSC,C15850,0.05
+C203,1,22pF,0603,Ceramic Capacitor C0G 50V,Samsung,CL10C220JB8NNNC,LCSC,C1653,0.01
+C204,1,22pF,0603,Ceramic Capacitor C0G 50V,Samsung,CL10C220JB8NNNC,LCSC,C1653,0.01
+C301,1,100nF,0603,Ceramic Capacitor X7R 50V,Samsung,CL10B104KB8NNNC,LCSC,C14663,0.01
+C302,1,10µF,0805,Ceramic Capacitor X7R 25V,Samsung,CL21B106KOQNNNE,LCSC,C15850,0.05
+C303,1,10nF,0603,Ceramic Capacitor X7R 50V,Samsung,CL10B103KB8NNNC,LCSC,C14858,0.01
+C401,1,100nF,0603,Ceramic Capacitor X7R 50V,Samsung,CL10B104KB8NNNC,LCSC,C14663,0.01
+C402,1,10µF,0805,Ceramic Capacitor X7R 25V,Samsung,CL21B106KOQNNNE,LCSC,C15850,0.05
+C403,1,2.2pF,0603,Ceramic Capacitor C0G 50V,Samsung,CL10C2R2CB8NNNC,LCSC,C1604,0.01
+C404,1,1.5pF,0603,Ceramic Capacitor C0G 50V,Samsung,CL10C1R5CB8NNNC,LCSC,C1602,0.01
+C501,1,100nF,0603,Ceramic Capacitor X7R 50V,Samsung,CL10B104KB8NNNC,LCSC,C14663,0.01
+C502,1,10µF,0805,Ceramic Capacitor X7R 25V,Samsung,CL21B106KOQNNNE,LCSC,C15850,0.05
+L101,1,22µH,1210,Power Inductor 3A DCR<50mΩ,Bourns,SRR1210-220M,Digikey,SRR1210-220MCT-ND,0.85
+L301,1,15nH,0603,RF Inductor High Q >40,Murata,LQW18AN15NG00D,Digikey,490-1151-1-ND,0.25
+L401,1,10nH,0603,RF Inductor High Q >40,Murata,LQW18AN10NG00D,Digikey,490-1149-1-ND,0.25
+R101,1,2kΩ,0603,Thick Film Resistor ±1% 1/10W,Yageo,RC0603FR-072KL,LCSC,C22975,0.01
+R102,1,10kΩ,0603,Thick Film Resistor ±1% 1/10W,Yageo,RC0603FR-0710KL,LCSC,C25804,0.01
+R103,1,8.2kΩ,0603,Thick Film Resistor ±1% 1/10W,Yageo,RC0603FR-078K2L,LCSC,C23179,0.01
+R201,1,10kΩ,0603,Thick Film Resistor ±1% 1/10W,Yageo,RC0603FR-0710KL,LCSC,C25804,0.01
+R301,1,10kΩ,0603,Thick Film Resistor ±1% 1/10W,Yageo,RC0603FR-0710KL,LCSC,C25804,0.01
+R401,1,10kΩ,0603,Thick Film Resistor ±1% 1/10W,Yageo,RC0603FR-0710KL,LCSC,C25804,0.01
+R501,1,4.7kΩ,0603,Thick Film Resistor ±1% 1/10W,Yageo,RC0603FR-074K7L,LCSC,C23162,0.01
+R502,1,4.7kΩ,0603,Thick Film Resistor ±1% 1/10W,Yageo,RC0603FR-074K7L,LCSC,C23162,0.01
+R503,1,4.7kΩ,0603,Thick Film Resistor ±1% 1/10W,Yageo,RC0603FR-074K7L,LCSC,C23162,0.01
+R504,1,1kΩ,0603,Thick Film Resistor ±1% 1/10W,Yageo,RC0603FR-071KL,LCSC,C21190,0.01
+Y201,1,40MHz,3225-4,Crystal Oscillator ±10ppm,Abracon,ABM8G-40.000MHZ-4Y-T3,Digikey,535-12668-1-ND,0.65
+SW201,1,RESET,3.2x2.5,Tactile Switch SPST-NO 50mA,C&K,PTS525SM15SMTR2LFS,Digikey,CKN9112CT-ND,0.35
+SW202,1,BOOT,3.2x2.5,Tactile Switch SPST-NO 50mA,C&K,PTS525SM15SMTR2LFS,Digikey,CKN9112CT-ND,0.35
+J101,1,Solar_Panel,JST-PH-2,JST Connector 2-Pin 2mm Pitch,JST,S2B-PH-K-S(LF)(SN),Digikey,455-1719-ND,0.15
+J102,1,Battery_18650,JST-PH-2,JST Connector 2-Pin 2mm Pitch,JST,S2B-PH-K-S(LF)(SN),Digikey,455-1719-ND,0.15
+J201,1,USB_C_Programming,USB-C,USB Type-C Receptacle 2.0 SMD,Palconn,UTC16-G,LCSC,C165948,0.85
+J301,1,GNSS_Antenna,U.FL,U.FL SMD Connector 50Ω,Hirose,U.FL-R-SMT(10),Digikey,H11373CT-ND,1.25
+J401,1,LoRa_Antenna_915MHz,U.FL,U.FL SMD Connector 50Ω,Hirose,U.FL-R-SMT(10),Digikey,H11373CT-ND,1.25
+BT301,1,CR1220,CR1220,Coin Cell Battery Holder 12mm,Keystone,3000,Digikey,36-3000CT-ND,0.95
+D501,1,GREEN,0603,LED Green 2.0V 20mA,Kingbright,APT1608CGCK,Digikey,754-1117-1-ND,0.08
+D401,1,PESD3V3L1BA,SOD-323,TVS Diode Bidirectional 3.3V,Nexperia,PESD3V3L1BA,Digikey,1727-2943-1-ND,0.12
+D301,1,PESD3V3L1BA,SOD-323,TVS Diode Bidirectional 3.3V,Nexperia,PESD3V3L1BA,Digikey,1727-2943-1-ND,0.12
+
+,,,,SUBTOTAL,,,,,96.77
+,,,,PCB Manufacturing (4-layer 50x40mm),,,,,8.50
+,,,,Assembly & Testing,,,,,15.00
+,,,,TOTAL PROJECT COST,,,,,120.27
+
+Notes:
+- All capacitors are X7R dielectric except C0G for RF applications
+- All resistors are thick film ±1% tolerance
+- TVS diodes added for ESD protection on antenna lines
+- Cost includes PCB manufacturing and basic assembly
+- Prices are approximate and may vary by supplier/quantity
+- Design optimized for low power consumption <100µA standby

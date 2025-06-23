@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "7e6c4488-7271-4d8e-8d4e-efa80573dbca")
+	(paper "A4")
+	(title_block
+		(title "CowTag - Módulo de Sensores")
+		(date "2025-06-21")
+		(rev "v1.0")
+		(company "FarmTag")
+		(comment 1 "LIS3DH Acelerómetro + DS18B20 Temperatura")
+		(comment 2 "I2C + OneWire interfaces")
+		(comment 3 "Detección de movimiento y temperatura")
+		(comment 4 "Bajo consumo con wake-up automático")
+	)
+	(lib_symbols)
+)
