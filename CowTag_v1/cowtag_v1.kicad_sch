@@ -7,12 +7,12 @@
 	(title_block
 		(title "CowTag - Sistema Principal")
 		(date "2025-06-21")
-		(rev "v1.0")
+		(rev "v1.1")
 		(company "FarmTag")
 		(comment 1 "Collar inteligente para ganado")
 		(comment 2 "GNSS + LoRa + Sensores + Solar")
 		(comment 3 "Alcance >10km, Autonomía >30 días")
-		(comment 4 "Diseño jerarquico modular")
+		(comment 4 "Diseño jerárquico modular")
 	)
 	(lib_symbols)
 	(sheet

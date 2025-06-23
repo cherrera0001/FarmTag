@@ -1,0 +1,26 @@
+(kicad_symbol_lib (version 20211014) (generator "custom")
+  (symbol "FarmTag:R_EN"
+    (pin input (at 0 0) (name "3V3") (length 1.27))
+    (pin output (at 0 2.54) (name "EN") (length 1.27))
+  )
+  (symbol "FarmTag:R_IO0"
+    (pin input (at 0 0) (name "3V3") (length 1.27))
+    (pin output (at 0 2.54) (name "IO0") (length 1.27))
+  )
+  (symbol "FarmTag:C_XTAL1"
+    (pin input (at 0 0) (name "XTAL_N") (length 1.27))
+    (pin input (at 0 2.54) (name "GND") (length 1.27))
+  )
+  (symbol "FarmTag:C_XTAL2"
+    (pin input (at 0 0) (name "XTAL_P") (length 1.27))
+    (pin input (at 0 2.54) (name "GND") (length 1.27))
+  )
+  (symbol "FarmTag:D_TVS"
+    (pin input (at 0 0) (name "VBUS") (length 1.27))
+    (pin input (at 0 2.54) (name "GND") (length 1.27))
+  )
+  (symbol "FarmTag:SW_RESET"
+    (pin output (at 0 0) (name "EN") (length 1.27))
+    (pin input (at 0 2.54) (name "GND") (length 1.27))
+  )
+)
