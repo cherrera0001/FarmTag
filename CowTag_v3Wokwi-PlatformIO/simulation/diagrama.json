@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "author": "CowTag Team",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": 0, "left": 0 },
+    { "type": "wokwi-mpu6050", "id": "mpu", "top": 120, "left": 200 },
+    { "type": "wokwi-gps-module", "id": "gps", "top": 120, "left": 400 },
+    { "type": "wokwi-lora-ra-02", "id": "lora", "top": 250, "left": 200 },
+    { "type": "wokwi-led", "id": "led1", "top": 400, "left": 100, "attrs": { "color": "green" } },
+    { "type": "wokwi-led", "id": "led2", "top": 400, "left": 150, "attrs": { "color": "red" } },
+    { "type": "wokwi-resistor", "id": "r1", "top": 380, "left": 100, "attrs": { "value": "330" } },
+    { "type": "wokwi-resistor", "id": "r2", "top": 380, "left": 150, "attrs": { "value": "330" } }
+  ],
+  "connections": [
+    [ "esp:VIN", "mpu:VCC", "red" ],
+    [ "esp:GND", "mpu:GND", "black" ],
+    [ "esp:D21", "mpu:SDA", "blue" ],
+    [ "esp:D22", "mpu:SCL", "yellow" ],
+    [ "esp:D12", "gps:TX", "green" ],
+    [ "esp:D15", "gps:RX", "orange" ],
+    [ "esp:3V3", "gps:VCC", "red" ],
+    [ "esp:GND", "gps:GND", "black" ],
+    [ "esp:D18", "lora:NSS", "purple" ],
+    [ "esp:D14", "lora:RST", "gray" ],
+    [ "esp:D26", "lora:DIO0", "brown" ],
+    [ "esp:D5", "lora:SCK", "cyan" ],
+    [ "esp:D19", "lora:MISO", "magenta" ],
+    [ "esp:D27", "lora:MOSI", "lime" ],
+    [ "esp:3V3", "lora:3.3V", "red" ],
+    [ "esp:GND", "lora:GND", "black" ],
+    [ "esp:D2", "r1:1", "green" ],
+    [ "r1:2", "led1:A", "green" ],
+    [ "led1:C", "esp:GND", "black" ],
+    [ "esp:D4", "r2:1", "red" ],
+    [ "r2:2", "led2:A", "red" ],
+    [ "led2:C", "esp:GND", "black" ]
+  ]
+}
