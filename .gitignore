@@ -1,0 +1,6 @@
+# Exclude KiCad temporary files
+*-backups/
+.kicad_prl
+fp-info-cache
+__pycache__/
+node_modules/
