@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = '.pio/build/ttgo-t-beam/firmware.bin'
+elf = '.pio/build/ttgo-t-beam/firmware.elf'
+rfc2217ServerPort = 4000

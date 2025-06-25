@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "author": "CowTag Team - Prototipo Ganadero",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "wokwi-esp32-devkit-v1",
+      "id": "esp",
+      "top": 100,
+      "left": 200,
+      "attrs": {
+        "label": "CowTag Controller"
+      }
+    },
+    {
+      "type": "wokwi-mpu6050",
+      "id": "mpu",
+      "top": 50,
+      "left": 400,
+      "attrs": {
+        "label": "Movement Sensor"
+      }
+    },
+    {
+      "type": "wokwi-gps-module",
+      "id": "gps",
+      "top": 200,
+      "left": 400,
+      "attrs": {
+        "label": "GPS Tracker"
+      }
+    },
+    {
+      "type": "wokwi-dht22",
+      "id": "temp_sensor",
+      "top": 350,
+      "left": 400,
+      "attrs": {
+        "label": "Temperature Sensor"
+      }
+    },
+    {
+      "type": "wokwi-buzzer",
+      "id": "alarm",
+      "top": 350,
+      "left": 200,
+      "attrs": {
+        "label": "Emergency Alarm"
+      }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led_status",
+      "top": 450,
+      "left": 150,
+      "attrs": {
+        "color": "green",
+        "label": "Status OK"
+      }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led_movement",
+      "top": 450,
+      "left": 200,
+      "attrs": {
+        "color": "blue",
+        "label": "Movement"
+      }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led_emergency",
+      "top": 450,
+      "left": 250,
+      "attrs": {
+        "color": "red",
+        "label": "Emergency"
+      }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r1",
+      "top": 430,
+      "left": 150,
+      "attrs": { "value": "330" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r2",
+      "top": 430,
+      "left": 200,
+      "attrs": { "value": "330" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r3",
+      "top": 430,
+      "left": 250,
+      "attrs": { "value": "330" }
+    },
+    {
+      "type": "wokwi-slide-switch",
+      "id": "power_switch",
+      "top": 50,
+      "left": 150,
+      "attrs": {
+        "label": "Power ON/OFF"
+      }
+    },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "emergency_btn",
+      "top": 300,
+      "left": 150,
+      "attrs": {
+        "label": "Emergency Button",
+        "color": "red"
+      }
+    }
+  ],
+  "connections": [
+    ["power_switch:1", "esp:VIN", "red", ["h0"]],
+    ["esp:GND", "power_switch:2", "black", ["h0"]],
+    
+    ["esp:VIN", "mpu:VCC", "red", ["h0"]],
+    ["esp:GND", "mpu:GND", "black", ["h0"]],
+    ["esp:D21", "mpu:SDA", "blue", ["h0"]],
+    ["esp:D22", "mpu:SCL", "yellow", ["h0"]],
+    
+    ["esp:D12", "gps:TX", "green", ["h0"]],
+    ["esp:D15", "gps:RX", "orange", ["h0"]],
+    ["esp:3V3", "gps:VCC", "red", ["h0"]],
+    ["esp:GND", "gps:GND", "black", ["h0"]],
+    
+    ["esp:3V3", "temp_sensor:VCC", "red", ["h0"]],
+    ["esp:GND", "temp_sensor:GND", "black", ["h0"]],
+    ["esp:D16", "temp_sensor:SDA", "purple", ["h0"]],
+    
+    ["esp:D25", "alarm:1", "brown", ["h0"]],
+    ["alarm:2", "esp:GND", "black", ["h0"]],
+    
+    ["esp:D33", "emergency_btn:1.l", "gray", ["h0"]],
+    ["emergency_btn:2.l", "esp:GND", "black", ["h0"]],
+    
+    ["esp:D2", "r1:1", "green", ["h0"]],
+    ["r1:2", "led_status:A", "green", ["h0"]],
+    ["led_status:C", "esp:GND", "black", ["h0"]],
+    
+    ["esp:D18", "r2:1", "blue", ["h0"]],
+    ["r2:2", "led_movement:A", "blue", ["h0"]],
+    ["led_movement:C", "esp:GND", "black", ["h0"]],
+    
+    ["esp:D4", "r3:1", "red", ["h0"]],
+    ["r3:2", "led_emergency:A", "red", ["h0"]],
+    ["led_emergency:C", "esp:GND", "black", ["h0"]]
+  ],
+  "dependencies": {}
+}
